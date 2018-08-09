@@ -1,0 +1,9 @@
+GSL1010|toyota|fortuner|2.7|2013|todo terreno|59000|blanco|gasolina|eléctricos|manual|42500|C:/Users/rxsh9/Downloads/forturner.jpg
+PBA5050|renault|logan|1.6|2010|jeep|80000|rojo|gasolina|eléctricos|manual|16000|carro2.jpg
+GQI0333|toyota|yaris|5.1|2009|auto|15040|rojo|gasolina|eléctricos |manual|8000|/Users/allisonbarrezueta/Desktop/PJK/K.jpg
+GLS1212|ford|explorer|2.3|2015|auto|234122|gris|gasolina|4|automatica|13000|null
+GQI0232|ford|explorer|2.3|2011|auto|232323|gris|gasolina|4|manual|14000|null
+GQK1232|chevrolet|spark|3.4|2015|auto|12309|negro|gasolina|4|manual|9000|null
+GKP0339|Mitsubishi|montero sport|4.92|1999|auto|49377|blanco|gasolina|4|automatico|1200|null
+POI1478|chevrolet|aveo|2.0|2010|auto|10000|negro|gasolina|manuales|manual|10000|C:/Users/rxsh9/Downloads/aj.jpg
+POI5555|ford|mmm|2.0|2011|jeep|70000|negro|gas|el|manual|40000|C:/Users/rxsh9/Downloads/aj.jpg

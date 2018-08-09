@@ -1,0 +1,5 @@
+projectKey=serranor2017
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/serranor2017
+ceTaskId=AWBGxtLKffNO9fe9LJYW
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWBGxtLKffNO9fe9LJYW
